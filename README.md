@@ -1,7 +1,6 @@
 # users-management-system
 
-For Frontend: React JS
-For Backend: Java and SpringBoot
+I used React JS for frontend and Java & Springboot for backend.
 
 In this project I created Users Management System along with Role Based Access Control(RBAC). Simply, I assumed 2 persons namely i.e., "ADMIN" and "USER". 
 The admin is the responsible for all CRUD operations which means he can add, update and delete users and he can see the details of all users who are registerd.
